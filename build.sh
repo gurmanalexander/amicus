@@ -21,7 +21,7 @@ perl -p -i -e "s/\"version\"\:\ {0,1}\"${VERSION}\"/\"version\"\: \"${NEW_VERSIO
 PACKAGES=(core
   auth
   broadcasting
-  dynamic)
+  support)
 
 PWD=`pwd`
 ROOT=${PWD}
