@@ -1,0 +1,22 @@
+{
+  "name": "@amicus/broadcasting",
+  "version": "0.0.0-PLACEHOLDER",
+  "description": "Amicus admin broadcasting",
+  "author": "Gurman Alexander <gurmanalexander@gmail.com>",
+  "license": "MIT",
+  "main": "./index.ts",
+  "typings": "./index.ts",
+  "dependencies": {
+    "@amicus/auth": "0.0.0-PLACEHOLDER",
+    "@amicus/core": "0.0.0-PLACEHOLDER",
+    "laravel-echo": "^1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurmanalexander/amicus.git"
+  },
+  "engines": {
+    "node": ">= 4.2.1",
+    "npm": ">= 3"
+  }
+}

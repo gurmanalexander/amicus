@@ -1,0 +1,31 @@
+{
+  "name": "@amicus/core",
+  "version": "0.0.0-PLACEHOLDER",
+  "description": "Amicus admin core",
+  "author": "Gurman Alexander <gurmanalexander@gmail.com>",
+  "license": "MIT",
+  "main": "./index.ts",
+  "typings": "./index.ts",
+  "private": false,
+  "dependencies": {
+    "@angular/animations": "~4.3.1",
+    "@angular/common": "~4.3.1",
+    "@angular/compiler": "~4.3.1",
+    "@angular/core": "~4.3.1",
+    "@angular/forms": "~4.3.1",
+    "@angular/http": "~4.3.1",
+    "@angular/platform-browser": "~4.3.1",
+    "@angular/platform-browser-dynamic": "~4.3.1",
+    "@angular/platform-server": "~4.3.1",
+    "@angular/router": "~4.3.1",
+    "rxjs": "~5.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurmanalexander/amicus.git"
+  },
+  "engines": {
+    "node": ">= 4.2.1",
+    "npm": ">= 3"
+  }
+}

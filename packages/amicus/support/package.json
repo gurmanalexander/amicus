@@ -1,0 +1,21 @@
+{
+  "name": "@amicus/support",
+  "version": "0.0.0-PLACEHOLDER",
+  "description": "Amicus admin support",
+  "author": "Gurman Alexander <gurmanalexander@gmail.com>",
+  "license": "MIT",
+  "main": "./index.ts",
+  "typings": "./index.ts",
+  "dependencies": {
+    "@amicus/core": "0.0.0-PLACEHOLDER",
+    "angular2-jwt": "^0.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurmanalexander/amicus.git"
+  },
+  "engines": {
+    "node": ">= 4.2.1",
+    "npm": ">= 3"
+  }
+}
