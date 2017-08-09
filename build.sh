@@ -20,7 +20,7 @@ perl -p -i -e "s/\"version\"\:\ {0,1}\"${VERSION}\"/\"version\"\: \"${NEW_VERSIO
 
 PACKAGES=(core
   auth
-  broadcasting/echo
+  broadcasting
   dynamic)
 
 PWD=`pwd`
